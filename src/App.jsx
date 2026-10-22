@@ -3,7 +3,7 @@ import Hero from './components/Hero';
 import Metrics from './components/Metrics';
 import BentoGrid from './components/BentoGrid';
 import CaseStudies from './components/CaseStudies';
-import Testimonials from './components/Testimonials';
+import Approach from './components/Approach';
 import AdvisoryIntake from './components/AdvisoryIntake';
 import Footer from './components/Footer';
 
@@ -17,7 +17,7 @@ export default function App() {
           <Metrics />
           <BentoGrid />
           <CaseStudies />
-          <Testimonials />
+          <Approach />
           <AdvisoryIntake />
         </div>
       </main>

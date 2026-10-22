@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "site": "yourname-portfolio",
+    "site": "svay-chanvireak-portfolio",
     "public": "dist",
     "ignore": ["firebase.json", "**/.*", "**/node_modules/**"],
     "rewrites": [
